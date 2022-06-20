@@ -11,7 +11,7 @@ body {
 #top-part {
     display: flex;
     flex-direction: column;
-    margin: 50px 500px 0px 500px;
+    margin: 50px 650px 0px 650px;
     background: #6943FF;
 }
 
@@ -44,7 +44,7 @@ body {
 #bottom-part {
     display: flex;
     flex-direction: column;
-    margin: -20px 500px 50px 500px;
+    margin: -20px 650px 50px 650px;
     background: #1F2937;
     font-size: 20px;
     font-weight: 400;
